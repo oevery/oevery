@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">Hi there 👋</p>
 
-<!--
-**MoonBegonia/MoonBegonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+    <a href="https://oevery.me">me</a> ·
+    <a href="https://blog.oevery.me">blog</a> ·
+    <a href="https://t.me/moonbegonia">telegram</a>
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.oevery.me/api?username=oevery&count_private=true&show_icons=true&hide_border=true" alt="Oevery's GitHub stats">
+  <img src="https://github-readme-stats.oevery.me/api/top-langs/?username=oevery&layout=compact&hide_border=true" alt="Mosts Used Languages"
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Top Repositories
+
+[![Readme Card](https://github-readme-stats.oevery.me/api/pin/?username=oevery&repo=ninja)](https://github.com/oevery/ninja)
