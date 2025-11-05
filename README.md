@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.oevery.me/api?username=oevery&show_icons=true&hide_title=true&&count_private=true&hide=contribs,prs" alt="Oevery's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=oevery&show_icons=true&hide_title=true&&count_private=true&hide=contribs,prs" alt="Oevery's GitHub stats">
 </div>
 
 <!-- ![visitors](https://komarev.com/ghpvc/?username=oevery&label=visitors) -->
