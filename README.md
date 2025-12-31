@@ -7,8 +7,18 @@
   </samp>
 </p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oevery&show_icons=true&hide_title=true&&count_private=true&hide=contribs,prs" alt="Oevery's GitHub stats">
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://oevery-gh-readme-stats.vercel.app/api?username=oevery&show_icons=true&layout=compact&hide_border=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://oevery-gh-readme-stats.vercel.app/api?username=oevery&show_icons=true&layout=compact&hide_border=true&theme=default">
+    <img width="400" alt="GitHub Stats" src="https://oevery-gh-readme-stats.vercel.app/api?username=oevery&show_icons=true&layout=compact&hide_border=true&theme=default">
+  </picture>
+</p>
 
-<!-- ![visitors](https://komarev.com/ghpvc/?username=oevery&label=visitors) -->
+<!-- <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://oevery-gh-readme-stats.vercel.app/api/top-langs/?username=oevery&show_icons=true&layout=compact&hide_border=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://oevery-gh-readme-stats.vercel.app/api/top-langs/?username=oevery&show_icons=true&layout=compact&hide_border=true&theme=default">
+    <img width="400" alt="Top Languages" src="https://oevery-gh-readme-stats.vercel.app/api/top-langs/?username=oevery&show_icons=true&layout=compact&hide_border=true&theme=default">
+  </picture>
+</p> -->
