@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://oevery.me">me</a> ·
+    <a href="https://www.oevery.me">me</a> ·
     <a href="https://t.me/moonbegonia">telegram</a>
   </samp>
 </p>
